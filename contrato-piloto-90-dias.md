@@ -38,8 +38,10 @@ A CONTRATADA prestará serviços especializados de estruturação digital, desen
 
 ### CLÁUSULA 2ª — DO INVESTIMENTO E CONDIÇÕES DE PAGAMENTO
 
-1. **Mensalidade da Assessoria (Piloto de 90 Dias):**  
-   Fica acordado o valor especial de **R$ 1.000,00 (hum mil reais) mensais** durante o período do programa piloto estruturado de 90 (noventa) dias, totalizando 3 (três) parcelas mensais de R$ 1.000,00.
+1. **Opção Contratada — Pacote Completo (Novo Site + Gestão de Tráfego):**  
+   Fica acordado o valor especial de **R$ 1.300,00 (hum mil e trezentos reais) mensais** durante o período do programa piloto estruturado de 90 (noventa) dias, totalizando 3 (três) parcelas mensais de R$ 1.300,00, estando inclusos a criação completa do novo site, configuração de tags e a gestão contínua dos anúncios.
+
+   *Parágrafo Único (Opção Apenas o Site):* Caso a CONTRATANTE opte exclusivamente pelo desenvolvimento da nova vitrine web sem a gestão de tráfego, o valor será de **R$ 600,00 (seiscentos reais) em parcela única**, quitada no início da produção.
 
 2. **Vencimento das Parcelas:**  
    - 1ª parcela: no ato da assinatura e início dos trabalhos;
@@ -48,7 +50,7 @@ A CONTRATADA prestará serviços especializados de estruturação digital, desen
    O pagamento será realizado via PIX ou transferência bancária informada pela CONTRATADA.
 
 3. **Verba de Anúncios (Mídia Paga):**  
-   O orçamento destinado diretamente às plataformas de tráfego (Google Ads e Meta Ads) é de responsabilidade da CONTRATANTE, sendo pago diretamente por cartão de crédito cadastrado nas contas de anúncios da CONTRATANTE. A CONTRATADA fornecerá a recomendação estratégica de verba mensal ideal.
+   O orçamento destinado diretamente às plataformas de tráfego (Google Ads e Meta Ads) é de responsabilidade da CONTRATANTE, sendo pago diretamente por cartão de crédito cadastrado nas contas de anúncios da CONTRATANTE. A CONTRATADA fornecerá a recomendação estratégica de verba mensal ideal (sugestão de R$ 20 a R$ 30/dia).
 
 ---
 
